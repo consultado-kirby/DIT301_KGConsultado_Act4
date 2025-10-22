@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SimpleInputApp</string>
+
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_age">Enter your age</string>
+
+    <string name="btn_submit">Submit</string>
+
+    <string name="output_placeholder"> </string>
+
+    <string name="error_fill_fields">Please fill in all fields.</string>
+    <string name="error_invalid_age">Please enter a valid age.</string>
+    <string name="success_submitted">Submitted successfully!</string>
+
+    <string name="output_text">Name: %1$s\nAge: %2$d years old</string>
+
+    <string name="toast_fill_fields">All fields should have valid inputs.</string>
+    <string name="toast_success">Form submitted successfully!</string>
+    <string name="toast_invalid_age">Invalid age entered!</string>
+</resources>
